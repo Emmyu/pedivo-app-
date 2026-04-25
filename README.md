@@ -2,6 +2,16 @@
 
 A Flutter mobile app that demonstrates location data handling, UI responsiveness, and state management through an activity verification dashboard. The app displays walking sessions and verifies them based on realistic criteria.
 
+## App Screenshots
+
+<p align="center">
+  <img src="assets/screen%20-1.png" width="19%" alt="Activity feed screen" />
+  <img src="assets/screen%202.png" width="19%" alt="Session detail screen" />
+  <img src="assets/screen%203.png" width="19%" alt="Verification state screen" />
+  <img src="assets/screem%204.png" width="19%" alt="Additional app screen" />
+  <img src="assets/screen%205.png" width="19%" alt="Additional app screen" />
+</p>
+
 ## Project Overview
 
 Pedivo verifies genuine physical activity by implementing a complete activity verification system that includes:
